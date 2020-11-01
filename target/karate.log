@@ -1,0 +1,9 @@
+23:20:56.108 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:20:56.159 [main] ERROR com.intuit.karate - url not set, please refer to the keyword documentation for 'url'
+23:20:56.160 [main] ERROR com.intuit.karate - http request failed: url not set, please refer to the keyword documentation for 'url'
+23:22:48.981 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:22:49.040 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:23:03.855 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:23:03.952 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:23:40.859 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:23:40.951 [main] INFO  com.intuit.karate - karate.env system property was: null 
